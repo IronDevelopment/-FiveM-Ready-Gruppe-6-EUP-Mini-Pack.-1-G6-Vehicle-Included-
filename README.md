@@ -7,10 +7,15 @@ Created by viS, Iron Development
 FiveM Ready Gruppe Sechs:
 
 -Polo Shirt
+
 -T-Shirt
+
 -Shirt
+
 -Cap
+
 -Vest
+
 -Pants
 
 Also have included 1 free vehicle:
